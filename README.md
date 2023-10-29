@@ -1,6 +1,6 @@
-# FormFlows: Streamlined React Form Management
+# use-formflow: Streamlined React Form Management
 
-The useForm hook provides an abstraction for managing form states, validation, and submissions. It simplifies the process of handling form inputs and reduces boilerplate for developers.
+### The useForm hook provides an abstraction for managing form states, validation, and submissions. It simplifies the process of handling form inputs and reduces boilerplate for developers.
 
 ## 🚀 Getting Started
 
