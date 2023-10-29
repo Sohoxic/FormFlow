@@ -12,14 +12,14 @@ The useForm hook provides an abstraction for managing form states, validation, a
 Before using the hook, ensure that you've installed the package. You can install the package via npm:
 
 ```
-npm install @yourusername/formflows --save
+npm i useformflow
 
 ```
 
 To use the useForm hook, simply import it from its module.
 
 ```
-import useForm from '@yourusername/formflows';
+import useForm from 'useformflow';
 
 ```
 
@@ -69,7 +69,7 @@ const {
 
 ```
 import React from 'react';
-import useForm from './path_to_useForm';
+import useForm from 'useformflow';
 
 const validateRules = {
   username: (value) => (!value ? "Username is required!" : null),
