@@ -1,0 +1,22 @@
+{
+  "name": "formflows",
+  "version": "1.0.0",
+  "description": "It is a custom hook, named useForm, that can help developers handle form inputs, validation, and form submission more easily.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "useForm",
+    "Form management"
+  ],
+  "author": "Soham Sarkar",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2"
+  }
+  
+}
