@@ -1,6 +1,6 @@
 {
   "name": "formflows",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is a custom hook, named useForm, that can help developers handle form inputs, validation, and form submission more easily.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,4 @@
     "@babel/core": "^7.23.2",
     "@babel/preset-env": "^7.23.2"
   }
-  
 }
