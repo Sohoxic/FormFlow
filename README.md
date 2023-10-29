@@ -119,9 +119,3 @@ export default LoginForm;
 - **Flexibility**: Customize validation rules and submission logic.
 - **Enhanced UX**: Offer real-time feedback through integrated validation.
 - **Library Compatibility**: Adaptable to various UI libraries or design systems.
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
-
-## 📝 License
-This project is typically licensed under GNU. Refer to the LICENSE file for more information.
