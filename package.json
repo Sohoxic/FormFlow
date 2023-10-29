@@ -1,6 +1,6 @@
 {
   "name": "useformflow",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "It is a custom hook, named useForm, that can help developers handle form inputs, validation, and form submission more easily.",
   "main": "index.js",
   "scripts": {
