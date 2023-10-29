@@ -1,4 +1,4 @@
-# FormFlow: Streamlined React Form Management
+# FormFlows: Streamlined React Form Management
 
 The useForm hook provides an abstraction for managing form states, validation, and submissions. It simplifies the process of handling form inputs and reduces boilerplate for developers.
 
@@ -119,3 +119,4 @@ export default LoginForm;
 - **Flexibility**: Customize validation rules and submission logic.
 - **Enhanced UX**: Offer real-time feedback through integrated validation.
 - **Library Compatibility**: Adaptable to various UI libraries or design systems.
+
