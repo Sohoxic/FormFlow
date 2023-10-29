@@ -1,6 +1,6 @@
 {
   "name": "use-form",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "It is a custom hook, named useForm, that can help developers handle form inputs, validation, and form submission more easily.",
   "main": "index.js",
   "scripts": {
